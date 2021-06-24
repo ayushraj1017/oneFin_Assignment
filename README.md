@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 First Clone the Repo on your local
 Open VS Code
-'yarn install' first command
-then 'node server.js' for fake server
-then 'yarn start' to run the website
+### 'yarn install' first command
+ ### 'node server.js' for fake server
+ ### 'yarn start' to run the website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
